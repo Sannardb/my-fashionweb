@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Summer Dress",
+    "price": 49.99,
+    "image": "/fashion-images/dress.png",
+    "description": "A light summer dress perfect for hot days."
+  },
+  {
+    "id": 2,
+    "name": "Winter Coat",
+    "price": 129.99,
+    "image": "/fashion-images/coat.png",
+    "description": "A warm coat for the winter season."
+  },
+  {
+    "id": 3,
+    "name": "Casual T-Shirt",
+    "price": 19.99,
+    "newPrice": 11.99,
+    "image": "/fashion-images/tshirt.png",
+    "description": "A comfortable t-shirt for everyday wear."
+  },
+  {
+    "id": 4,
+    "name": "Leather Jacket",
+    "price": 89.99,
+    "image": "/fashion-images/jacket.png",
+    "description": "A stylish leather jacket for a cool look."
+  },
+  {
+    "id": 5,
+    "name": "Skinny Jeans",
+    "price": 39.99,
+    "newPrice": 19.99,
+    "image": "/fashion-images/jeans.png",
+    "description": "Comfortable skinny jeans for a modern fit."
+  },
+  {
+    "id": 6,
+    "name": "Formal Shirt",
+    "price": 34.99,
+    "image": "/fashion-images/shirt.png",
+    "description": "A classic shirt for formal occasions."
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "price": 79.99,
+    "image": "/fashion-images/shoes.png",
+    "description": "High-performance shoes for running and workouts."
+  },
+  {
+    "id": 8,
+    "name": "Sweater",
+    "price": 59.99,
+    "image": "/fashion-images/sweater.png",
+    "description": "A cozy sweater for chilly days."
+  },
+  {
+    "id": 9,
+    "name": "Shorts",
+    "price": 29.99,
+    "image": "/fashion-images/shorts.png",
+    "description": "Casual shorts for hot weather."
+  },
+  {
+    "id": 10,
+    "name": "Blazer",
+    "price": 89.99,
+    "image": "/fashion-images/blazer.png",
+    "description": "A sleek blazer for a polished look."
+  },
+  {
+    "id": 11,
+    "name": "Cardigan",
+    "price": 49.99,
+    "image": "/fashion-images/cardigan.png",
+    "description": "A versatile cardigan for layering."
+  },
+  {
+    "id": 12,
+    "name": "Skirt",
+    "price": 39.99,
+    "newPrice": 25.99,
+    "image": "/fashion-images/skirt.png",
+    "description": "A fashionable skirt for various outfits."
+  },
+  {
+    "id": 13,
+    "name": "Tank Top",
+    "price": 24.99,
+    "image": "/fashion-images/tanktop.png",
+    "description": "A basic tank top for layering or warm days."
+  },
+  {
+    "id": 14,
+    "name": "Polo Shirt",
+    "price": 34.99,
+    "image": "/fashion-images/polo.png",
+    "description": "A classic polo shirt for a casual yet smart look."
+  },
+  {
+    "id": 15,
+    "name": "Tracksuit",
+    "price": 89.99,
+    "image": "/fashion-images/tracksuit.png",
+    "description": "Comfortable tracksuit for lounging or exercise."
+  }
+]
