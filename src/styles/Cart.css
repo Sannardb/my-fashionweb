@@ -10,6 +10,8 @@
   z-index: 1000;
   width: 300px;
   font-family: Arial, sans-serif;
+  max-height: 80vh;
+  overflow-y: auto;
 }
 
 .cart h2 {
@@ -23,6 +25,8 @@
   list-style: none;
   padding: 0;
   margin: 0;
+  max-height: 400px;
+  overflow-y: auto;
 }
 
 .cart li {
